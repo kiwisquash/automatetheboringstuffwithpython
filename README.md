@@ -11,6 +11,8 @@ Chapter 1 - 6
 Sprint duration: 4 weeks
 Sprint start: 7/28/2018
 
+This is a test.
+
 ## Part 2: Automating tasks
 
 Sprint duration: TBD
