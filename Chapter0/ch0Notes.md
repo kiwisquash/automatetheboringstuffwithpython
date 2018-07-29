@@ -1,0 +1,26 @@
+- Being able to write programs can save you a tone of time when it comes to repetitive tasks.
+- There are many small and trivial things, which are too specific for people to have actually written a program for.
+- This book is about writing code that works, it is not about elegance or making efficient programs.
+    - Fun project: Find ways to improve the program's efficiencies.
+- Python is named after "Monty Python."
+    - Expect many Monty Python references in documentations.
+    - Also expect snake jokes too.
+- The book is divided into two parts
+    - Part 1: Basic of python programming.
+        - The goal of my first sprint is to get Part 1 done.
+    - Part 2: Using the basics to do cool things.
+- This book uses python3.
+- IDLE (Interactive Development Environment) for python
+    - idle3
+- Places to find help:
+    - Google
+    - stack overflow
+    - reddit (http://reddit.com/r/programming)
+- When posting on forums, don't be a dick.
+    - read the FAQ, and be nice.
+- Places to post code to show folks
+    - pastebin
+    - gist.github.com
+- The author of the book has a blog
+    - inventwithpython.com/blog
+
