@@ -1,16 +1,14 @@
 # Reflections
 
-Some interesting new tidbits (I knew, but I don't think of):
+Again, mostly stuff I already knew.
 
-- IDLE stands for "Interactive Development Environment"
-- idle3 is the command for running the python3 IDLE
-- python comes from Monty Python, which means I need to watch more Monty Python
+Good to brush up on some terminology.
+- *expression* is made up of *values* and *operators* that *evaluates* to a single value with no operators, if there are no errors, that is.
+- the program *calls* functions, and the values that *passed* to the function are called *arguments*.
 
-Good to remember:
-
-- pastebin
-- gist.github.com
-- programming sub-reddit
-- stackoverflow
-- inventwithpython website has free stuff online
-    - why did you buy this book, yo? 
+Variable names in python: three rules:
+1. One word (I knew that)
+2. Letters and numbers and underscores only (I did not know that)
+    - This is how I normally define variables, but I did not know that you cannot define variables using other symbols
+3. Can't start with a number.
+    - I never would, but I didn't know this was banned.
