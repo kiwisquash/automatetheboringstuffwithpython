@@ -1,0 +1,15 @@
+- Define functions using "def"
+- parameter is the variable that an argument is stored in
+    - parameters have local scope
+- "A functional call evaluates to its return value"
+- A function without return value evaluates to the None value.
+    - NoneType data it is the only one
+- Nothing having a return statement is the same as having `return None`
+- print has keyword arguments
+    - print(string1, string2, ..., sep = separator, end = finishingSring)
+- variables inside of a function have a local scope.
+- there is only one global scope
+- use the global keyword inside of the function to give the variable global scope.
+- use 'try' and 'except' to handle errorws
+    - why? otherwise, the entire program will terminate.
+
