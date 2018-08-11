@@ -5,11 +5,13 @@ catNames = []
 print("Please enter the name of a cat.")
 print("If you don't want to add any cat names, hit enter without typing anything.")
 catName = input()
+catName = catName.strip() # Remove white spaces on the left and on the right
 while catName !="":
     catNames = catNames + [catName]
     print("Would you like to enter another cat name?\n")
     print("If you don't want to add any cat names, hit enter without typing anything.")
     catName = input()
+    catName = catName.strip()
 if len(catNames)==0:
     print("You didn't enter any cat names!")
 else:
